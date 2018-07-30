@@ -7,8 +7,6 @@ package com.neofelis.carousel;
 
 public interface CarouselConfig {
 
-
-
     /**指示器样式*/
     enum INDICATOR_STYLE {
         NONE,CIRCLE,NUM,TITLE
